@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Week2B\RubeGoldberg\Assets\scripts\cameraSwitch.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\cameraSwitch.cs">
     <Files>
-      <File FileName="..\..\Week2B\RubeGoldberg\Assets\scripts\cameraSwitch.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\cameraSwitch.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
