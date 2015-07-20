@@ -1,15 +1,33 @@
 fileFormatVersion: 2
-guid: 9f46348221e753f459f0cd1e55c62733
-timeCreated: 1437175712
+guid: d4cabbd742bebb5479db85476115692b
+timeCreated: 1437417284
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: pCube1
+    100000: Char_Y_1
+    100002: Char_Y_2
+    100004: curve1
+    100006: curve2
+    100008: Text_Y_1
+    100010: Text_Y_2
+    100012: Trim_Char_Y_2_1
+    100014: Trim_Text_Y_1_1
+    100016: Trim_Text_Y_2_1
+    100018: //RootNode
+    400000: Char_Y_1
+    400002: Char_Y_2
+    400004: curve1
+    400006: curve2
+    400008: Text_Y_1
+    400010: Text_Y_2
+    400012: Trim_Char_Y_2_1
+    400014: Trim_Text_Y_1_1
+    400016: Trim_Text_Y_2_1
+    400018: //RootNode
+    2300000: Trim_Char_Y_2_1
+    3300000: Trim_Char_Y_2_1
+    4300000: Trim_Char_Y_2_1
     9500000: //RootNode
   materials:
     importMaterials: 1
