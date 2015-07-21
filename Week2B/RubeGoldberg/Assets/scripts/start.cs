@@ -6,6 +6,7 @@ public class start : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		Time.timeScale = 0f;
 		started = false;
 	}
 	
@@ -14,7 +15,9 @@ public class start : MonoBehaviour {
 		if(Input.GetKeyDown(KeyCode.Space))
 			started = true;
 
-		if (started == true)
-			GetComponent<Rigidbody>().constraints = RigidbodyConstraints.None;
+		if (started == true){
+			GetComponent<TextMesh>().text = "";
+			Time.timeScale = 1f;
+		}
 	}
 }
