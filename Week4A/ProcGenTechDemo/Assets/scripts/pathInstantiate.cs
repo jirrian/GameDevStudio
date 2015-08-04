@@ -104,7 +104,7 @@ public class pathInstantiate : MonoBehaviour {
 
 			// set color
 			Transform newClone = (Transform) Instantiate(floorPrefab, transform.position, transform.rotation);
-			newClone.GetComponent<Renderer>().material.color = colorsFloor[Random.Range(0,5)];
+			newClone.GetComponent<Renderer>().material.color = colorsFloor[Random.Range(0,3)];
 			
 			transform.localPosition += transform.forward * 5f;
 			counter++;
